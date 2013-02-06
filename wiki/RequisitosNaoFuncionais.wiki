@@ -1,6 +1,6 @@
 =Requisitos Não Funcionais=
 
-*_•RNF001:_* Sistema Operacional Windows 
+*_•RNF001:_* Conexão com a rede
 
 *_•RNF002:_* Informações de cardápio
 
