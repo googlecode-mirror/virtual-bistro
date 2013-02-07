@@ -12,16 +12,8 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img571.imageshack.us/img571/6917/linksxx.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP">
+<img src="http://img831.imageshack.us/img831/7898/linksastah.png" alt="Link para o diagramador utilizado nesse projeto: astah">
+<img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte">
+<img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum">
+<img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto">
