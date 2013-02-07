@@ -12,17 +12,28 @@
     <td><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img51.imageshack.us/img51/6841/linkns.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
   <tr>
-    <th height="161" colspan="7" BACKGROUND="http://img600.imageshack.us/img600/1318/77460756.jpg" scope="row">&nbsp;</th>
+    <th height="161" colspan="7" BACKGROUND="http://img600.imageshack.us/img600/1318/77460756.jpg" scope="row"></th>
   </tr>
 </table>
 
-#summary One-sentence summary of this page.
-Introduction
-Add your content here.
+= Requisitos Funcionais = 
 
-Details
-Add your content here. Format your content with:
+*_•RF001:_* CRUD do pedido
 
-Text in bold or italic
-Headings, paragraphs, and lists
-Automatic links to other wiki pages
+*_•RF002:_* Gerenciamento de caixa
+
+*_•RF003:_* CRUD funcionário
+
+*_•RF004:_* Função de Caixa
+
+*_•RF005:_* Gerenciamento de Pedidos
+
+=Requisitos Não Funcionais=
+
+*_•RNF001:_* Conexão com a rede
+
+*_•RNF002:_* Informações de cardápio
+
+*_•RNF003:_* Banco de dados
+
+*_•RNF004:_* Linguagem PHP
