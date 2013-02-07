@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table width="840" border="0" cellpadding="0" cellspacing="0">
+<table width="830" height="289" border="0" align="left" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0px;">
   <tr>
     <th width="840" scope="col"><a href="http://cakephp.org/"><img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP" width="830" height="323" /></a></th>
   </tr>
