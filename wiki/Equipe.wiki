@@ -12,9 +12,17 @@
     <td><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img51.imageshack.us/img51/6841/linkns.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
   <tr>
-    <th height="161" colspan="7" BACKGROUND="http://img600.imageshack.us/img600/1318/77460756.jpg" scope="row">&nbsp;</th>
+    <th height="161" colspan="7" BACKGROUND="http://img600.imageshack.us/img600/1318/77460756.jpg" scope="row">
+<p>
+Flaviano Dias
+João Marcos Lemos de Castro
+Rafael de Albuquerque Silva
+Raul Luis Mendes de Araújo
+</th>
   </tr>
 </table>
+
+
 #summary One-sentence summary of this page.
 Introduction
 Add your content here.
