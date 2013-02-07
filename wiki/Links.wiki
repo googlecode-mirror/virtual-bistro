@@ -12,8 +12,10 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img571.imageshack.us/img571/6917/linksxx.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-<img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP">
-<img src="http://img831.imageshack.us/img831/7898/linksastah.png" alt="Link para o diagramador utilizado nesse projeto: astah">
-<img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte">
-<img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum">
-<img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto">
+
+
+<a href="http://cakephp.org/"><img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP"></a>
+<a href="http://astah.net/"><img src="http://img831.imageshack.us/img831/7898/linksastah.png" alt="Link para o diagramador utilizado nesse projeto: astah"></a>
+<a href="http://virtual-bistro.googlecode.com/svn/trunk/"><img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte"></a>
+<a href="http://code.google.com/p/virtual-bistro/wiki/Scrum"><img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum"></a>
+<a href="http://drive.google.com"><img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto"></a>
