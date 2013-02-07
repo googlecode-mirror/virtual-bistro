@@ -27,7 +27,7 @@ Rafael de Albuquerque Silva
 <li>
 Raul Luis Mendes de Araújo
 </li>
-<ul>
+</ul>
 </p>
 </th>
   </tr>
