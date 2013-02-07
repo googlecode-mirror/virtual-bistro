@@ -13,18 +13,20 @@
   </tr>
 </table>
 
-
-<a href="http://cakephp.org/">
-<img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP">
-
-<a href="http://astah.net/">
-<img src="http://img831.imageshack.us/img831/7898/linksastah.png" alt="Link para o diagramador utilizado nesse projeto: astah">
-
-<a href="http://virtual-bistro.googlecode.com/svn/trunk/">
-<img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte">
-
-<a href="http://code.google.com/p/virtual-bistro/wiki/Scrum">
-<img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum">
-
-<a href="http://drive.google.com">
-<img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto">
+<table width="200" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <th width="840" scope="col"><a href="http://cakephp.org/"><img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP" width="830" height="323" /></a></th>
+  </tr>
+  <tr>
+    <th width="840" scope="row"><a href="http://astah.net/"><img src="http://img831.imageshack.us/img831/7898/linksastah.png" alt="ink para o diagramador utilizado nesse projeto: astah" width="830" height="323" /></a></th>
+  </tr>
+  <tr>
+    <th width="840" scope="row"><a href="http://virtual-bistro.googlecode.com/svn/trunk/"><img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte" width="830" height="323" /></a></th>
+  </tr>
+  <tr>
+    <th width="840" scope="row"><a href="http://code.google.com/p/virtual-bistro/wiki/Scrum"><img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum" width="830" height="323" /></a></th>
+  </tr>
+  <tr>
+    <th width="840" scope="row"><a href="http://drive.google.com"><img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto" width="830" height="323" /></a></th>
+  </tr>
+</table>
