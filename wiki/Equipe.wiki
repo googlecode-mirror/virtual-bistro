@@ -14,10 +14,21 @@
   <tr>
     <th height="161" colspan="7" BACKGROUND="http://img600.imageshack.us/img600/1318/77460756.jpg" scope="row">
 <p>
+<ul>
+<li>
 Flaviano Dias
+</li>
+<li>
 João Marcos Lemos de Castro
+</li>
+<li>
 Rafael de Albuquerque Silva
+</li>
+<li>
 Raul Luis Mendes de Araújo
+</li>
+<ul>
+</p>
 </th>
   </tr>
 </table>
