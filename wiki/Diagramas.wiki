@@ -12,16 +12,5 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img51.imageshack.us/img51/6841/linkns.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-#summary One-sentence summary of this page.
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<a href="http://virtual-bistro.googlecode.com/files/U.C._VirtualBistr%C3%B4.asta">Diagrama de Casos de uso</a>
