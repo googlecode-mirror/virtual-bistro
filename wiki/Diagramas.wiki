@@ -13,4 +13,4 @@
   </tr>
 </table>
 
-<a href="http://virtual-bistro.googlecode.com/files/U.C._VirtualBistr%C3%B4.asta">Diagrama de Casos de uso</a>
+<a href="http://virtual-bistro.googlecode.com/files/DiagramaDeCasoDeUso.asta">Diagrama de Casos de uso</a>
