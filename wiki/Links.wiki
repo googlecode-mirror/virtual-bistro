@@ -12,7 +12,6 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img571.imageshack.us/img571/6917/linksxx.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-<img src="http://img252.imageshack.us/img252/5526/barralink.png"alt="Link"/>
 <table width="830" height="289" border="0" align="left" cellpadding="-1" cellspacing="0" style="margin: 0px; padding: 0px;">
   <tr>
     <th width="840" scope="col"><a href="http://cakephp.org/"><img src="http://img145.imageshack.us/img145/8389/linkcake.png" alt="link para o framework CakePHP" width="830" height="323" /></a></th>
