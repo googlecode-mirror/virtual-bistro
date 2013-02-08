@@ -33,6 +33,8 @@
 
 *_•RF008:_* Gerenciar o status do pedido (Solicitado, Em Preparo, Entregue).
 
+<img src="http://img10.imageshack.us/img10/9886/requisitosnaofuncionais.png" alt="Requisitos Não Funcionais: RNF001: Conexão com a internet. RNF002: Informações de cardápio. RNF003: Cadastro no sistema." />
+
 =Requisitos Não Funcionais=
 
 *_•RNF001:_* Conexão com a internet
