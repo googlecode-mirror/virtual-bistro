@@ -1,5 +1,4 @@
 
-
 <table width="830" height="289" border="0" align="left" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0px;">
   <tr>
     <th height="240" colspan="7" scope="col"><img src="http://img35.imageshack.us/img35/1908/topdvz.png" width="830" height="240" alt="Top" /></th>
@@ -17,23 +16,24 @@
 <p>
 = Requisitos Funcionais = 
 
-*_•RF001:_* CRUD do pedido
+*_•RF001:_* Cadastrar Gerente.
+*_•RF002:_* Cadastrar Funcionários.
+*_•RF003:_* Cadastrar Cardápio.
+*_•RF004:_* Cadastrar Clientes.
+*_•RF005:_* Mostrar o Cardápio.
+*_•RF006:_* Cadastrar o pedido do cliente.
+*_•RF007:_* Gerenciar as contas dos clientes.
+*_•RF008:_* Gerenciar o status do pedido (Solicitado, Em Preparo, Entregue).
+*_•RF009:_* 
 
-*_•RF002:_* Gerenciamento de caixa
 
-*_•RF003:_* CRUD funcionário
-
-*_•RF004:_* Função de Caixa
-
-*_•RF005:_* Gerenciamento de Pedidos
 
 =Requisitos Não Funcionais=
 
-*_•RNF001:_* Conexão com a rede
+*_•RNF001:_* Conexão com a internet
 
 *_•RNF002:_* Informações de cardápio
 
-*_•RNF003:_* Banco de dados
+*_•RNF003:_* Cadastro no sistema
 
-*_•RNF004:_* Linguagem PHP
 </p>
