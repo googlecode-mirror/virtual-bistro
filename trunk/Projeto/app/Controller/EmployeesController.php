@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 class EmployeesController extends AppController {
     public $helpers = array ('Html','Form');
     public $name = 'Employees';
@@ -28,7 +28,7 @@ class EmployeesController extends AppController {
     if ($this->request->is('get')) {
         $this->request->data = $this->Employee->read();
     } else {
-        if ($this->Employee->save($this->request->data)) {
+        if ($this->Employee->saveAll($this->request->data)) {
             $this->Session->setFlash('Your post has been updated.');
             $this->redirect(array('action' => 'index'));
         }
