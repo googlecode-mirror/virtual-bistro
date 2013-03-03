@@ -1,0 +1,1120 @@
+2013-02-26 15:21:17 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/Employees/add.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 15:52:13 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/Employees/add.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 16:05:09 Error: [MissingActionException] Action EmployeesController::add.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'add.ctp',
+)
+Request URL: /bistro/Projeto/Employees/add.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 16:05:23 Error: [MissingActionException] Action EmployeesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'index',
+)
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 16:15:44 Error: [MissingActionException] Action EmployeesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'index',
+)
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 16:20:01 Error: [MissingActionException] Action EmployeesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'index',
+)
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 16:28:53 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp',
+)
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-02-26 16:36:14 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp',
+)
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-02-26 17:42:31 Error: [MissingActionException] Action EmployeesController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'view',
+)
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 17:55:36 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 17:55:36 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 17:58:54 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 17:58:54 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:00:40 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 18:00:40 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:08:08 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 18:08:08 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:33:43 Error: [MissingActionException] Action EmployeesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'add',
+)
+Request URL: /bistro/Projeto/employees/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 18:46:00 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 18:46:00 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:46:40 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 18:46:40 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:47:13 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 18:47:13 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:53:12 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 18:53:12 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:55:46 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 18:55:46 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 18:59:33 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 18:59:33 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:26:09 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:26:09 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:26:20 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:26:20 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:26:29 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:26:29 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:27:30 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:27:30 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:27:31 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:27:31 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:28:24 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:28:24 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:28:29 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:28:29 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:28:33 Error: [MissingActionException] Action EmployeesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'add',
+)
+Request URL: /bistro/Projeto/Employees/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 19:28:37 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:28:37 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:28:38 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:28:38 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/Employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:28:43 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:28:43 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:30:05 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:30:05 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:30:07 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:30:07 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:30:11 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:30:11 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:32:30 Error: [MissingControllerException] Controller class EmployeeController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeeController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employee
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:32:35 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:32:35 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:32:36 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:32:36 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:33:17 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:33:17 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:33:18 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:33:18 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:34:39 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:34:39 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:35:37 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:35:37 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:35:39 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:35:39 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:36:33 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 11]
+2013-02-26 19:36:33 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:40:30 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:40:30 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:40:34 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 19:40:34 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:15 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:15 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:16 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:16 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees/view
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:19 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:19 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:22 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:22 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:24 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:24 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:42:25 Error: Fatal Error (4): syntax error, unexpected ';', expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 14]
+2013-02-26 19:42:25 Error: [FatalErrorException] syntax error, unexpected ';', expecting T_FUNCTION
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:44:12 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:44:12 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:44:13 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:44:13 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:44:14 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:44:14 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/Employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:44:22 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:44:22 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:44:22 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:44:22 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:45:01 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:45:01 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:45:03 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:45:03 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:46:25 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:46:25 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:46:26 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:46:26 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:46:27 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:46:27 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:46:36 Error: [MissingControllerException] Controller class EmployeeController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeeController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employee
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:46:49 Error: [MissingControllerException] Controller class EmployeeController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeeController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employee
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:46:59 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:46:59 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:51:52 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:51:52 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:51:54 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 13]
+2013-02-26 19:51:54 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 19:52:04 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp',
+)
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-02-26 19:56:53 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:58:49 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:58:50 Error: [MissingControllerException] Controller class EmployeesController could not be found.
+Exception Attributes: array (
+  'class' => 'EmployeesController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 19:59:58 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 19:59:58 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:00:24 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:00:24 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:19 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:19 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:19 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:19 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:03:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 7]
+2013-02-26 20:03:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:05:08 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp',
+)
+Request URL: /bistro/Projeto/employees/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-02-26 20:06:23 Error: [MissingActionException] Action EmployeesController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'view',
+)
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 20:08:06 Error: [MissingActionException] Action EmployeesController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'view',
+)
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-26 20:09:12 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 20:09:12 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:09:13 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 20:09:13 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:09:49 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 20:09:49 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:09:53 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 20:09:53 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:09:54 Error: Fatal Error (4): syntax error, unexpected '/' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/view.ctp, line 2]
+2013-02-26 20:09:54 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /bistro/Projeto/employees/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 20:17:54 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/posts/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 20:18:19 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/posts/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 20:18:22 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /bistro/Projeto/posts/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-26 21:36:43 Error: Fatal Error (1): Class 'AuthComponent' not found in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Model/User.php, line 7]
+2013-02-26 21:36:43 Error: [FatalErrorException] Class 'AuthComponent' not found
+Request URL: /bistro/Projeto/employees/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Class 'AuthComp...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AuthComp...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'AuthComp...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:17:20 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 41]
+2013-02-26 22:17:20 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 41, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 41, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:25:22 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 41]
+2013-02-26 22:25:22 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 41, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 41, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:25:55 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 44]
+2013-02-26 22:25:55 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:26:01 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 44]
+2013-02-26 22:26:01 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:26:19 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 44]
+2013-02-26 22:26:19 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:26:24 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 44]
+2013-02-26 22:26:24 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 44, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-26 22:26:48 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 43]
+2013-02-26 22:26:48 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 43)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 43, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 43, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 09:22:30 Error: [MissingActionException] Action EmployeesController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'EmployeesController',
+  'action' => 'delete',
+)
+Request URL: /bistro/Projeto/employees/delete/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-02-27 09:24:36 Error: Fatal Error (1): Call to undefined method EmployeesController::flashSuccess() in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 43]
+2013-02-27 09:24:36 Error: [FatalErrorException] Call to undefined method EmployeesController::flashSuccess()
+Request URL: /bistro/Projeto/employees/edit/6
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 43)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 43, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 43, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 11:52:14 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 58]
+2013-02-27 11:52:14 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 11:52:17 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 58]
+2013-02-27 11:52:17 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 11:52:54 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 46]
+2013-02-27 11:52:54 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 46, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 46, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 11:52:56 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php, line 46]
+2013-02-27 11:52:56 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 46, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 46, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-27 12:07:14 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0937666123' for key 'cpf_UNIQUE'
+Request URL: /bistro/Projeto/employees/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `bi...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `bi...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Model.php(1734): DboSource->create(Object(Employee), Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Model.php(2237): Model->save(Array, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Model.php(2044): Model->saveAssociated(Array, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/EmployeesController.php(18): Model->saveAll(Array)
+#7 [internal function]: EmployeesController->add()
+#8 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(EmployeesController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(EmployeesController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-03-01 18:30:09 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 19]
+2013-03-01 18:30:09 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-01 18:30:13 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 19]
+2013-03-01 18:30:13 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-01 18:30:15 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/View/Employees/index.ctp, line 19]
+2013-03-01 18:30:15 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /bistro/Projeto/employees
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 19, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-01 23:03:33 Error: [MissingTableException] Table menus for model Menu was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'menus',
+  'class' => 'Menu',
+  'ds' => 'default',
+)
+Request URL: /bistro/Projeto/menus
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Model.php(3217): Model->setSource('menus')
+#1 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Model/Model.php(2674): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/Controller/MenusController.php(7): Model->find('all')
+#3 [internal function]: MenusController->index()
+#4 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(MenusController), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(MenusController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/XAMPP/xamppfiles/htdocs/bistro/Projeto/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

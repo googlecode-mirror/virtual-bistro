@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 class EmployeesController extends AppController {
     public $helpers = array ('Html','Form');
     public $name = 'Employees';

@@ -23,5 +23,12 @@
 			<p><span>Cidade: </span><?php echo $employee['Address']['city']; ?></p>
 			<p><span>Estado: </span><?php echo $employee['Address']['state']; ?></p>
 	</fieldset>
+	<div class="Employee_Form">
+	<fieldset id="Employee_Users">
+		<legend class="legenda">Usuário</legend>
+			<p><span>Tipo: </span><?php echo $employee['User']['type']; ?></p>
+			
+	</fieldset>
+</div>
 			
 </div>
