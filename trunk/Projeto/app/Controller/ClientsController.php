@@ -9,7 +9,7 @@ class ClientsController extends AppController {
 
     public function view($id = null) {
         $this->Client->id = $id;
-        $this->set('client', $this->Clients->read());
+        $this->set('client', $this->Client->read());
     }
 
     public function add() {
@@ -17,14 +17,14 @@ class ClientsController extends AppController {
       {
          if($this->Client->saveAll($this->request->data))
          {
-           $this->Session->setFlash('O CLiente foi adicionado.');
+           $this->Session->setFlash('O Cliente foi adicionado.');
            $this->redirect(array('action' => 'index'));
          } 
       }
     }
 
     public function edit($id = null) {
-    $this->Clients->id = $id;
+    $this->Client->id = $id;
     if ($this->request->is('get')) {
         $this->request->data = $this->Client->read();
     } else {
