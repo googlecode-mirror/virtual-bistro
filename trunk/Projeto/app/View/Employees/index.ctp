@@ -1,4 +1,4 @@
-<h1>Posts do Blog</h1>
+<h1>Empregados</h1>
 <table>
     <?php echo $this->Html->link('Adicionar Funcionário', array('controller' => 'employees', 'action' => 'add')); ?>
     <tr>

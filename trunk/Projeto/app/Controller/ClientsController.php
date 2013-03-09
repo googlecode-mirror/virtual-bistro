@@ -17,7 +17,7 @@ class ClientsController extends AppController {
       {
          if($this->Client->saveAll($this->request->data))
          {
-           $this->Session->setFlash('O Cliente foi adicionado.');
+           $this->Session->setFlash('O funcionário foi adicionado.');
            $this->redirect(array('action' => 'index'));
          } 
       }
@@ -29,7 +29,7 @@ class ClientsController extends AppController {
         $this->request->data = $this->Client->read();
     } else {
         if ($this->Client->saveAll($this->request->data)) {
-            $this->Session->setFlash('Informaçoes Cadastrais Atualizadas.');
+            $this->Session->setFlash('Your post has been updated.');
             $this->redirect(array('action' => 'index'));
         }
     }

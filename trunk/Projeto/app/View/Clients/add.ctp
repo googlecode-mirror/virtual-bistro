@@ -33,8 +33,7 @@
 
 			<?php echo $this->Form->input('User.username',array('label' => 'Nome de usuário: <br>', 'required'=>'required','id' => 'campo_usuario')); ?>
 			<?php echo $this->Form->input('User.password', array('label' => 'Senha: <br>','required'=>'required', 'id' => 'senha')); ?>
-			<?php echo $this->Form->input('User.type', array('label' => 'Tipo de usuário: <br>', 'empty' => 'Selecione','required'=>'required', 'id' => 'tipousuario',
-    		'options' => array('waiter' => 'Garçom', 'manager' => 'Gerente', 'cashier' => 'Caixa',  'client' => 'Cliente', 'admin' => 'Admin'))); ?>
+			<?php echo $this->Form->input('User.type', array('label' => 'Tipo de usuário: <br>','required'=>'required', 'id' => 'tipousuario','options' => array('client' => 'Cliente'))); ?>
 	</fieldset>
 </div>
 

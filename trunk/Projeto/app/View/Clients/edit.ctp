@@ -5,7 +5,7 @@
 <div class="Client_Form">
 	<fieldset id="Client_Personal">
 		<legend class="legenda">Dados Pessoais</legend>
-			
+			<?php echo $this->Form->input('Client.id', array('type' => 'hidden')); ?>
 			<?php echo $this->Form->input('Client.name', array('label' => 'Nome: ','required'=>'required', 'id'=>'name')); ?>
 			<?php echo $this->Form->input('Client.cpf', array('label' => 'CPF: ', 'id'=>'cpf','div'=>'div_cpf','onblur'=>'checkCPF(this)')); ?>
 			<?php echo $this->Form->input('Client.phone', array('label' => 'Telefone: ', 'id'=>'phone')); ?>
@@ -17,7 +17,7 @@
 <div class="Client_Form">
 	<fieldset id="Client_Adress">
 		<legend class="legenda">Endereço</legend>
-
+			<?php echo $this->Form->input('Address.id', array('type' => 'hidden')); ?>
 			<?php echo $this->Form->input('Address.zip_code', array('label' => 'CEP: ', 'id'=>'zip_code')); ?>
 			<?php echo $this->Form->input('Address.number', array('label' => 'Número: ')); ?>
 			<?php echo $this->Form->input('Address.address', array('label' => 'Endereço: ', 'id'=>'address')); ?>
@@ -30,11 +30,10 @@
 <div class="Client_Form">
 	<fieldset id="Client_Users">
 		<legend class="legenda">Usuário</legend>
-
+			<?php echo $this->Form->input('User.id', array('type' => 'hidden')); ?>
 			<?php echo $this->Form->input('User.username',array('label' => 'Nome de usuário: <br>', 'required'=>'required','id' => 'campo_usuario')); ?>
 			<?php echo $this->Form->input('User.password', array('label' => 'Senha: <br>','required'=>'required', 'id' => 'senha')); ?>
-			<?php echo $this->Form->input('User.type', array('label' => 'Tipo de usuário: <br>', 'empty' => 'Selecione','required'=>'required', 'id' => 'tipousuario',
-    		'options' => array('waiter' => 'Garçom', 'manager' => 'Gerente', 'cashier' => 'Caixa',  'client' => 'Cliente', 'admin' => 'Admin'))); ?>
+			<?php echo $this->Form->input('User.type', array('label' => 'Tipo de usuário: <br>','required'=>'required', 'id' => 'tipousuario','options' => array('client' => 'Cliente'))); ?>
 	</fieldset>
 </div>
 
