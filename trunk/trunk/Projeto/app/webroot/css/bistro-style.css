@@ -1,0 +1,295 @@
+/*Header*/
+header{
+	width: 80%;
+	position: absolute;
+	left: 50%;
+	margin-left: -40%;
+	background-color: white;
+	border:5px dashed #c4b875;
+	border-radius: 0px 0px 10px 10px;
+	padding-top: 0px;
+	margin-top: -5px;
+	/*position: fixed;*/
+
+}
+
+#logoHeader{
+	width: 20%;
+	height: auto;
+	padding:0% 0% 2% 2%;
+	
+}
+.menuLateral{
+	padding-top: 4%;
+	float: right;
+	text-align: right;
+	margin-top: -2%;
+	margin-right: -3%;
+}
+.menuLateral a{
+	line-height: 4em;
+	padding-right: 2em;
+	color: white;
+	text-shadow: 0.1em 0.1em #a18b61;
+
+}
+#botaoHome, #botaoSair, #botaoCadastrar{
+	position: relative; 
+	background-image: url( ../img/back_bg.png);
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+/*Avisos*/
+.message{
+	padding-top: 5%;
+	margin-bottom: -6%;
+	text-align: center;
+	float: center;
+	position: relative;
+	color: white;
+	text-shadow: 0.1em 0.1em #a18b61;
+}
+/*Classes*/
+
+body {
+	background: url(../img/bg.jpg);
+	font-family: Helvetica;
+}
+input{
+	text-align: left;
+	width: 90%;
+	height: 20px;
+	background-color: white;
+	border-radius: 2px;
+}
+
+select{
+	width: 400px;
+	height: 20px;
+	background-color: #FFFFFF;
+}
+
+legend{
+	font-size: 22px;
+}
+
+
+fieldset{
+	width: 80%;
+	height: auto;
+	margin: 90px auto;
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0, .4); 
+	text-align: center;
+	padding-top: 1px;
+}
+
+h1, h2, h3, h4 {
+	color: #652319;
+	margin-bottom: 0.5em;
+}
+
+/* NAVIGATION */
+
+nav {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+}
+
+a {
+	color: #c3b875;
+	padding-left: 55px;
+	font-style: italic;
+	text-decoration: none;
+	-moz-transition: all .4s;
+}
+
+.Conteudo, #conteudoHome{
+	width: 101%;
+	padding-top: 20%;
+	padding-bottom: 5%;
+}
+#conteudoHome{
+	padding-top: 13%;/*
+	position: absolute;*/
+}
+/*ID'ss*/
+
+#homeGerente ul {
+	height: 20%;
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+#homeGerente ul li { 
+	display: inline; 
+}
+#homeGerente ul li a {
+	padding: 2px 10px;
+	display: inline;
+ 
+	/* visual do link */
+	color: #333;
+	text-decoration: none;
+}
+
+#homeGerente ul li a:hover {
+}
+
+.iconeHome{
+	width: 20%;
+	height: auto;
+	text-decoration: none;
+
+}
+
+/*Tabelas*/
+table {
+	border-radius: 10px;
+	width: 80%;
+	border-spacing: 0px;
+	border-collapse: 0px;
+	background-color: white;
+	font-family: Helvetica;
+	position: absolute;
+	left: 50%;
+	margin-left: -40%;
+	padding-top: 0px;
+	margin-top: -5px;
+	position: relative;
+}
+
+td, th {
+    padding: 10px;
+    border-bottom: 1px solid #f2f2f2;  
+    
+}
+tbody tr {
+	background-color: #FFF;
+}
+tbody tr:nth-child(even) {
+    background: #f5f5f5;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+}
+th {
+    text-align: left;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+    border-bottom: 1px solid #ccc;
+    background-color: #eee;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#eee));
+    background-image: -webkit-linear-gradient(top, #f5f5f5, #eee);
+    background-image:    -moz-linear-gradient(top, #f5f5f5, #eee);
+    background-image:     -ms-linear-gradient(top, #f5f5f5, #eee);
+    background-image:      -o-linear-gradient(top, #f5f5f5, #eee); 
+    background-image:         linear-gradient(top, #f5f5f5, #eee);
+}
+th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;  
+}
+th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+tfoot td {
+    border-bottom: 0;
+    border-top: 1px solid #fff;
+    background-color: #f1f1f1;  
+}
+tfoot td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+tfoot td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+tfoot td:only-child{
+    -moz-border-radius: 0 0 6px 6px;
+    -webkit-border-radius: 0 0 6px 6px
+    border-radius: 0 0 6px 6px
+    background-color: #FFF;
+}
+
+/*Fim tabelas*/
+
+/*Login*/
+#logoLogin{
+	width: 60%;
+}
+#fieldsetLogin{
+	width: 30%;
+}
+#campoLogin, #campoSenha{
+	border: 1px solid #a6a6a6;
+	width: 230px;
+	height: 40px;
+	border-radius: 3px;
+	margin-top: 10px;
+	padding-left: 10px;
+	color: #6c6c6c;
+	background: #fcfcfc;
+	outline: none;
+}
+
+#campoLogin:focus,#campoSenha:focus{
+	box-shadow: inset 0 0 2px rgba(0,0,0, .3);
+	color: #a6a6a6;
+	background: white;
+}
+
+#botaoLogin{
+	border-radius: 3px;
+	border: 1px solid #336895;
+	box-shadow: inset 0 1px 0 #8dc2f0;
+	width: 242px;
+	height: 40px;
+	margin-top: 20px;
+	
+	background: linear-gradient(bottom, #eae3b9 0%, #c3b875 100%);
+	background: -o-linear-gradient(bottom, #eae3b9 0%, #c3b875 100%);
+	background: -moz-linear-gradient(bottom, #eae3b9 0%, #c3b875 100%);
+	background: -webkit-linear-gradient(bottom, #eae3b9 0%, #c3b875 100%);
+	background: -ms-linear-gradient(bottom, #eae3b9 0%, #c3b875 100%);
+	
+	cursor: pointer;
+	color: #652319;
+	font-weight: bold;
+	text-shadow: 0 -1px 0 #336895;
+	
+	font-size: 13px;
+}
+/*Fim do login*/
+.actions img{
+	width: 30px;
+	height: auto;
+}
+
+/*CRUD Add*/
+.Menu_Form{
+
+}
+#Menu_Detail{
+
+}
+.legenda{
+	
+}
+/*Fim CRUD Add*/
