@@ -12,7 +12,6 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img51.imageshack.us/img51/6841/linkns.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-
 <table width="830" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th colspan="3" scope="col"><img src="http://img26.imageshack.us/img26/1588/casosdeusocorpo.png" alt="Diagrama de Caos de uso" width="830" height="608" /></th>
@@ -27,7 +26,15 @@
   </tr>
   <tr>
     <th scope="row"><img src="http://img842.imageshack.us/img842/9894/casosdeusoesquerda.png" width="295" height="125" /></th>
-    <td><a href="https://virtual-bistro.googlecode.com/files/virtual-bistro-classes.asta"><img src="http://img820.imageshack.us/img820/4946/casosdeusodownload.png" alt="Download Casos de Uso." width="268" height="125" /></a></td>
+    <td><a href="https://virtual-bistro.googlecode.com/files/virtual-bistro-classes.asta"><img src="http://img820.imageshack.us/img820/4946/casosdeusodownload.png" alt="Download Diagrama de Clases." width="268" height="125" /></a></td>
     <td><img src="http://img717.imageshack.us/img717/2281/casosdeusodireita.png" width="267" height="125" /></td>
+  </tr>
+  <tr>
+    <th colspan="3" scope="row"><img src="http://img26.imageshack.us/img26/7163/diagramaspacotes.png" alt="Diagrama de Casos de uso" width="830" height="608" /></th>
+  </tr>
+  <tr>
+    <th scope="row"><img src="http://img842.imageshack.us/img842/9894/casosdeusoesquerda.png" alt="" width="295" height="125" /></th>
+    <td><a href="https://virtual-bistro.googlecode.com/files/virtual-bistro-classes.asta"><img src="http://img820.imageshack.us/img820/4946/casosdeusodownload.png" alt="Download Diagramas de Pacotes." width="268" height="125" /></a></td>
+    <td><img src="http://img717.imageshack.us/img717/2281/casosdeusodireita.png" alt="" width="267" height="125" /></td>
   </tr>
 </table>
