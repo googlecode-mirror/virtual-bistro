@@ -14,5 +14,5 @@
 </table>
 <p>
 <img src="http://img837.imageshack.us/img837/6216/requisitosfuncionais.png" alt="Requisitos Funcionais: RF001: Cadastrar Gerente. RF002: Cadastrar Funcionários. RF003: Cadastrar Cardápio. RF004: Cadastrar Clientes. RF005: Mostrar o Cardápio. RF006: Cadastrar o pedido do cliente. RF007: Gerenciar as contas dos clientes. RF008: Gerenciar o status do pedido (Solicitado, Em Preparo, Entregue)."/>
-<img src="http://img254.imageshack.us/img254/2381/requisitosnf.png" alt="Requisitos Não Funcionais: RNF001: Conexão com a internet. RNF002: Informações de cardápio. RNF003: Cadastro no sistema." />
+<img src="http://img521.imageshack.us/img521/2381/requisitosnf.png" alt="Requisitos Não Funcionais: RNF001: Conexão com a internet. RNF002: Informações de cardápio. RNF003: Cadastro no sistema." />
 </p>
