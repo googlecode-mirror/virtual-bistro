@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <th scope="row"><img src="http://img842.imageshack.us/img842/9894/casosdeusoesquerda.png" alt="" width="295" height="125" /></th>
-    <td><a href="https://virtual-bistro.googlecode.com/files/virtual-bistro-classes.asta"><img src="http://img820.imageshack.us/img820/4946/casosdeusodownload.png" alt="Download Diagramas de Pacotes." width="268" height="125" /></a></td>
+    <td><a href="https://virtual-bistro.googlecode.com/files/virtual-bistro-pacotes .asta"><img src="http://img820.imageshack.us/img820/4946/casosdeusodownload.png" alt="Download Diagramas de Pacotes." width="268" height="125" /></a></td>
     <td><img src="http://img717.imageshack.us/img717/2281/casosdeusodireita.png" alt="" width="267" height="125" /></td>
   </tr>
 </table>
