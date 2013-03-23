@@ -1,4 +1,3 @@
-
 <table width="830" height="289" border="0" align="left" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0px;">
   <tr>
     <th height="240" colspan="7" scope="col"><img src="http://img35.imageshack.us/img35/1908/topdvz.png" width="830" height="240" alt="Top" /></th>
@@ -13,19 +12,4 @@
     <td width="94" height="46"><a href="http://code.google.com/p/virtual-bistro/wiki/Links"><img src="http://img51.imageshack.us/img51/6841/linkns.png" alt="Links" width="94" height="46" /></a></td>
   </tr>
 </table>
-<p>
-<ul>
-<li>
-Flaviano Dias
-</li>
-<li>
-João Marcos Lemos de Castro
-</li>
-<li>
-Rafael de Albuquerque Silva
-</li>
-<li>
-Raul Luis Mendes de Araújo
-</li>
-</ul>
-</p>
+http://img842.imageshack.us/img842/2991/equipeya.png
