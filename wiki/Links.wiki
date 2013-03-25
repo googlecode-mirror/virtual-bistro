@@ -23,7 +23,7 @@
     <th width="840" scope="row"><a href="http://virtual-bistro.googlecode.com/svn/trunk/"><img src="http://img14.imageshack.us/img14/5643/linksfonte.png" alt="Link para o código-fonte" width="830" height="323" /></a></th>
   </tr>
   <tr>
-    <th width="840" scope="row"><a href="http://code.google.com/p/virtual-bistro/wiki/Scrum"><img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum" width="830" height="323" /></a></th>
+    <th width="840" scope="row"><a href="http://scrumy.com/virtual-bistro-sprint-1"><img src="http://img809.imageshack.us/img809/3120/linksscrum.png" alt="Link para o Scrum" width="830" height="323" /></a></th>
   </tr>
   <tr>
     <th width="840" scope="row"><a href="http://drive.google.com"><img src="http://img819.imageshack.us/img819/5134/linksrelatorios.png" alt="Link para os Relatórios do Projeto" width="830" height="323" /></a></th>
